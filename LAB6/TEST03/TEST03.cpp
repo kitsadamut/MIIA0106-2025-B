@@ -44,8 +44,10 @@ int main()
             cin >> score[i][j];
             total[i] += score[i][j];
         }
-        calculateGrade(total[i], grade[i]);
+        calculateGrade(total[i]/M, grade[i]);
 	}
+    cout << "" << endl;
+
     for (int i = 0; i < N; i++) {
 		displayStudentInfo(name[i], id[i], total[i], grade[i]);
 	}

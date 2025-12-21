@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE40C1EA-9BB4-4CB0-8145-570D8175ED84}|..\\TEST03\\TEST03.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST03\\TEST03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0D97E63-80F0-4990-9C18-480E5F3961B9}|..\\TEST02\\TEST02.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST02\\TEST02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEF928DC-3728-44C2-9705-B28F4034599E}|..\\TEST04\\TEST04.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST04\\TEST04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE40C1EA-9BB4-4CB0-8145-570D8175ED84}|..\\TEST03\\TEST03.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST03\\TEST03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBCBD7DF-97B8-45C5-9ACB-AF1AB9858CC9}|TEST01.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST01\\TEST01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,43 +23,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TEST04.cpp",
               "DocumentMoniker": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST04\\TEST04.cpp",
               "RelativeDocumentMoniker": "..\\TEST04\\TEST04.cpp",
-              "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST04\\TEST04.cpp*",
-              "RelativeToolTip": "..\\TEST04\\TEST04.cpp*",
+              "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST04\\TEST04.cpp",
+              "RelativeToolTip": "..\\TEST04\\TEST04.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-21T09:25:42.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T09:25:42.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TEST03.cpp",
               "DocumentMoniker": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST03\\TEST03.cpp",
               "RelativeDocumentMoniker": "..\\TEST03\\TEST03.cpp",
               "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST03\\TEST03.cpp",
               "RelativeToolTip": "..\\TEST03\\TEST03.cpp",
-              "ViewState": "AgIAABkAAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-21T09:07:48.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TEST02.cpp",
               "DocumentMoniker": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST02\\TEST02.cpp",
               "RelativeDocumentMoniker": "..\\TEST02\\TEST02.cpp",
-              "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST02\\TEST02.cpp*",
-              "RelativeToolTip": "..\\TEST02\\TEST02.cpp*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwC4AAAACAAAAAAAAAA==",
+              "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB6\\TEST02\\TEST02.cpp",
+              "RelativeToolTip": "..\\TEST02\\TEST02.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-21T09:00:02.82Z",
               "EditorCaption": ""
@@ -74,8 +73,7 @@
               "RelativeToolTip": "TEST01.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAmwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-21T08:49:33.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T08:49:33.799Z"
             }
           ]
         }
