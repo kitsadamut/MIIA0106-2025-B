@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F541E2B-6D04-4865-B2E0-487E8EA6D37F}|..\\TES07\\TES07.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TES07\\TES07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C669760-4388-43E8-A6DB-E4FD6CA5EF25}|..\\TEST06\\TEST06.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST06\\TEST06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997BC36B-9018-43C7-A59A-E801D9333418}|..\\TEST5\\TEST5.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST5\\TEST5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E8F8DF-E814-4FF9-847B-A14826167095}|..\\TEST03\\TEST03.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST03\\TEST03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D47733-6E64-41F6-A780-AA31D3D02C3C}|..\\TEST02\\TEST02.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST02\\TEST02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819F049D-175A-4D22-AAC9-4E09CE9B96D2}|TEST01.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST01\\TEST01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{819F049D-175A-4D22-AAC9-4E09CE9B96D2}|TEST01.vcxproj|solutionrelative:TEST01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 117,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TES07.cpp",
+              "DocumentMoniker": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TES07\\TES07.cpp",
+              "RelativeDocumentMoniker": "..\\TES07\\TES07.cpp",
+              "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TES07\\TES07.cpp*",
+              "RelativeToolTip": "..\\TES07\\TES07.cpp*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:41:47.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TEST06.cpp",
+              "DocumentMoniker": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST06\\TEST06.cpp",
+              "RelativeDocumentMoniker": "..\\TEST06\\TEST06.cpp",
+              "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST06\\TEST06.cpp",
+              "RelativeToolTip": "..\\TEST06\\TEST06.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:32:54.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TEST5.cpp",
+              "DocumentMoniker": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST5\\TEST5.cpp",
+              "RelativeDocumentMoniker": "..\\TEST5\\TEST5.cpp",
+              "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST5\\TEST5.cpp",
+              "RelativeToolTip": "..\\TEST5\\TEST5.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:19:26.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TEST03.cpp",
+              "DocumentMoniker": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST03\\TEST03.cpp",
+              "RelativeDocumentMoniker": "..\\TEST03\\TEST03.cpp",
+              "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST03\\TEST03.cpp",
+              "RelativeToolTip": "..\\TEST03\\TEST03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:07:53.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TEST02.cpp",
+              "DocumentMoniker": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST02\\TEST02.cpp",
+              "RelativeDocumentMoniker": "..\\TEST02\\TEST02.cpp",
+              "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST02\\TEST02.cpp",
+              "RelativeToolTip": "..\\TEST02\\TEST02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:01:41.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TEST01.cpp",
+              "DocumentMoniker": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST01\\TEST01.cpp",
+              "RelativeDocumentMoniker": "TEST01.cpp",
+              "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB8\\TEST01\\TEST01.cpp",
+              "RelativeToolTip": "TEST01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T08:10:00.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
