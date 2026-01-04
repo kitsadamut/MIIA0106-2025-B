@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB7\\TEST06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4FEBD8-79B2-4275-85A0-203D3D2C2AEA}|TEST06.vcxproj|D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB7\\TEST06\\TEST06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E4FEBD8-79B2-4275-85A0-203D3D2C2AEA}|TEST06.vcxproj|solutionrelative:TEST06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TEST06.cpp",
+              "DocumentMoniker": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB7\\TEST06\\TEST06.cpp",
+              "RelativeDocumentMoniker": "TEST06.cpp",
+              "ToolTip": "D:\\ClassRoom\\Python and C\\github\\MIIA0106-2025-B\\LAB7\\TEST06\\TEST06.cpp*",
+              "RelativeToolTip": "TEST06.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T07:25:06.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
